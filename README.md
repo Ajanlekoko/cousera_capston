@@ -1,4 +1,4 @@
-# cousera_capston
+# cousera_capstone
 
 ## editing the file
 
