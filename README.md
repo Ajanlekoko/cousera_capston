@@ -1,4 +1,4 @@
-# cousera_capstone
+# cousera IBM Data Science Certificate 
 
 ## editing the file
 
